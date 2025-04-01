@@ -126,11 +126,11 @@ The following resources, datasets, and tools were used to build the Social Deter
 # DISCLOSURES
 **Contributions**
 
-Vemana Anil Kumar - 33%
+Vemana Anil Kumar - 80%
 
-Ashwin Badamikar - 33%
+Ashwin Badamikar - 10%
 
-Madhura Adadande - 33%
+Madhura Adadande - 10%
 
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
