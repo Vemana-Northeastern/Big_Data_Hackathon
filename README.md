@@ -50,6 +50,11 @@ LangGraph handles orchestration between agents to ensure clean data flow and dep
 **Challenges and Optimizations:**
 One of the challenges was efficiently filtering large datasets on stress by income, employment, and geography. To solve this, parameterized SQL queries were used with backend filters based on user inputs. RAG performance was optimized by chunking PDF reports intelligently and embedding them with metadata such as topic and year. Web search results were post-processed using ranking logic to eliminate irrelevant or low-quality content.
 
+**Architecture Diagram**
+
+![Editor _ Mermaid Chart-2025-04-05-151537](https://github.com/user-attachments/assets/7a11dc8c-cb20-48ed-ae01-505686ccacea)
+
+
 # APPLICATION WORKFLOW 
 The Stress Analytics Research Assistant follows a multi-stage workflow designed to process, analyze, and summarize stress-related data across structured, unstructured, and real-time sources.
 
