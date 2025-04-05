@@ -9,7 +9,7 @@ As the U.S. healthcare system grapples with rising costs, staffing shortages, an
 
 Streamlit Application: http://192.241.155.93:8501/
 FastAPI: http://192.241.155.93:8000/docs
-CodeLabs link:
+CodeLabs link: https://codelabs-preview.appspot.com/?file_id=1DWXwiNrqbh9kzsL6N7HQ_l1Vuv3GJ-h8tar_hWyhF6E#0
 
 
 # Technologies Used
